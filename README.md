@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeekFrankk
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning HTML, CSS & Java Script
+- 🌱 I’m currently learning React & SQL
 - 💞️ I’m looking to collaborate on a web project | Hit me up, let's collaborate
 - 📫 How to reach me (kogolof1@gmontclair.edu)
 
