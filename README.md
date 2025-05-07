@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @GeekFrankk
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning About various types of llm models and implementing it into my upcoming projects...
 - 💞️ I’m looking to collaborate on a project with AI Integration | Hit me up, let's collaborate
 - 📫 How to reach me (kogolof1@gmontclair.edu)
